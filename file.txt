@@ -1,2 +1,4 @@
 New text file from Dev2
 New text file from Dev1
+
+New line from Dev1 Branch
